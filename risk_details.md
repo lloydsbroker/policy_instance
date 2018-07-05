@@ -1,7 +1,7 @@
 # Risk Details:
 
 
-**UNIQUE MARKET REFERENCE** :       B0999ABC987654320
+**UNIQUE MARKET REFERENCE** :       B0999ABC987654321
 <!-- hello -->
 
 
@@ -15,8 +15,8 @@ Some Risks of Direct Physical Loss or Damage including Boiler Explosion and Mach
 Number 1, Big Boulevard, Olympia, Washington (WA) 99999, USA
 
 **PERIOD:**   
-Effective from:   1 January YYYY at 12:01pm Pacific Standard Time  
-To:               1 January YYYY at 12:01pm Pacific Standard Time
+Effective from:   1 January 2019 at 12:01pm Pacific Standard Time  
+To:               1 January 2020 at 12:01pm Pacific Standard Time
 
 **INTEREST:**  
 Real and Personal Property at the offices of the insured in USA (Washington) including the additional coverages defined below:  
@@ -46,7 +46,7 @@ All other perils except for the above: USD 1,000
 20% of 100%.
 
 **SITUATION**:  
-Offices of the yinsured in the USA.
+Offices of the insured in the USA.
 
 **CONDITIONS:**   
 _(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
