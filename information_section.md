@@ -4,7 +4,7 @@ The following information was provided to insurer(s) to support the assessment o
 
 Client submission dated November YYYY prepared by Producer Inc and seen by all participants hereon and held on file by Broker XYZ Ltd
 
-No losses past five years
+No losses past ten years
 
 EFG Burglar alarm system installed at all locations
 
