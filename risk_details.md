@@ -33,7 +33,7 @@ and as fully defined in the contract wording and clauses referenced herein.
 USD 10,000,000 any one occurrence and in the annual aggregate in respect of Flood and Earthquake separately.  
 Program Sublimits schedule:  
 ```
-Earthquake: USD 2,000,000 any one occurrence and in the annual aggregate  
+Earthquake: USD 2,000,001 any one occurrence and in the annual aggregate  
 Flood: USD 2,000,000 any one occurrence and in the annual aggregate  
 Boiler & Machinery: USD 2,000,000 any one accident  
 ```
