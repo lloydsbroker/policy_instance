@@ -5,6 +5,7 @@
 <!-- hello -->
 
 
+
 **TYPE:**  
 Some Risks of Direct Physical Loss or Damage including Boiler Explosion and Machinery Breakdown insurance.
 
@@ -43,7 +44,7 @@ Earthquake / Windstorm / Flood: USD   2,000
 All other perils except for the above: USD 1,000 
 ```
 **INSURED'S  RETENTION**:     
-20% of 100%.
+10% of 100%.
 
 **SITUATION**:  
 Offices of the insured in the USA.
@@ -51,7 +52,7 @@ Offices of the insured in the USA.
 **CONDITIONS:**   
 _(Any bespoke wording or clauses will form part of this section, whereas model or registered wordings or clauses can be referred to by reference as per the following example)_   
 ```
-XYZ Insurer - Primary Property wording CPROP192 - dated January 2005  
+Specific Insurer - Primary Property wording CPROP192 - dated January 2005  
 NMA 2914 (Amended Perils) Electronic Data Endorsement A (Section two sub-limit USD 10,000,000)  
 LMA 5019 Asbestos Endorsement  
 NMA 2962 Biological or Chemical Materials Exclusion  
@@ -62,7 +63,7 @@ LMA9150 Single Claims Agreement Party Arrangements
 ```
 
 **LOSS PAYEE:**  
-XXXX Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
+123 Inc. Number 2 Boulevard, Olympia, Washington (WA) 99999, USA
 
 
 **SUBJECTIVITIES:**  
