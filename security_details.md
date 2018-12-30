@@ -2,7 +2,7 @@
 
 **INSURER'S  (This clause LMA3333 should be provided in full and not simply referenced.) LIABILITY:**  
 #### LMA4444 #####
-##### (Re)insurer's liability several not joint #####  
+##### (Re)insurer's liability several is joint #####  
  
 The liability of a (re)insurer under this contract is several and not joint with other (re)insurers party to this contract. A (re)insurer is liable only for the proportion of liability it has underwritten. A (re)insurer is not jointly liable for the proportion of liability underwritten by any other (re)insurer. Nor is a (re)insurer otherwise responsible for any liability of any other (re)insurer that may underwrite this contract.
 
